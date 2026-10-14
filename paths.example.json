@@ -1,0 +1,5 @@
+{
+  "video_root": "../frames",
+  "coco_annotations": "../annotations/car_crash_annotations.json",
+  "clip_annotations": "../annotations/clip_annotations"
+}
